@@ -8,5 +8,6 @@ Perspectives on the Impact of Machine Learning, Deep Learning, and Artificial In
 
 Autonomous data-driven design of inorganic materials with AFLOW article -> https://arxiv.org/pdf/1803.05035.pdf
 
-Automatic Face Aging in Videos via Deep Reinforcement Learning --> http://openaccess.thecvf.com/content_CVPR_2019/papers/Duong_Automatic_Face_Aging_in_Videos_via_Deep_Reinforcement_Learning_CVPR_2019_paper.pdf
-
+Automatic Face Aging in Videos via Deep Reinforcement Learning:
+- http://openaccess.thecvf.com/content_CVPR_2019/papers/Duong_Automatic_Face_Aging_in_Videos_via_Deep_Reinforcement_Learning_CVPR_2019_paper.pdf
+- https://dcnhan.github.io/projects/aging_project/the-agfw-database.html
